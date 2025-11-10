@@ -1,0 +1,50 @@
+query,query_score,response_score
+Punishment for sex with a minor,90,85
+Legal consequences of rape,95,0
+Penalty for molestation,95,5
+Laws against sexual harassment at the workplace,90,80
+Punishment for acid attacks,90,0
+Is marital rape a crime in India?,95,10
+Consequences of stalking and voyeurism,95,0
+Punishment for sharing obscene content online,95,10
+Laws on human trafficking and forced prostitution,95,0
+Legal consequences of dowry harassment,90,10
+Punishment for cyberstalking and online harassment,95,5
+Legal consequences of hacking,95,10
+Is online defamation a criminal offense?,95,0
+Penalty for identity theft and phishing scams,95,5
+Laws on sending obscene messages over the internet,95,10
+Punishment for spreading fake news and misinformation,95,5
+Can offensive social media posts lead to arrest?,90,0
+Legal actions against deepfake pornography,95,5
+Consequences of unauthorized access to personal data,95,10
+Punishment for cyberbullying and online blackmai,95,10
+Punishment for murder,95,10
+Difference between murder and culpable homicide,95,0
+Legal consequences of attempted murder,90,10
+Penalty for abetment of suicide,95,0
+Laws against honor killings,95,0
+Is mercy killing (euthanasia) legal in India?,95,0
+Punishment for dowry-related deaths,95,0
+Can accidental death lead to criminal charges?,95,0
+Legal consequences of mob lynching,95,5
+Laws on custodial death and police brutality,95,10
+Punishment for theft and burglary,85,60
+What is criminal breach of trust?,95,0
+Punishment for forgery and fake document creation,95,85
+Legal consequences of bank fraud,95,0
+Is cryptocurrency fraud a punishable offense?,95,0
+Laws on insider trading and corporate fraud,95,10
+Punishment for money laundering,95,0
+Consequences of issuing a bounced cheque,95,90
+Is running a pyramid scheme illegal in India?,95,1
+Punishment for kidnapping and abduction,90,0
+Laws on human trafficking,95,0
+Penalty for extortion and blackmail,85,70
+Legal consequences of organized crime activities,95,10
+Punishment for drug trafficking and narcotics smuggling,95,0
+Punishment for sedition and anti-national activities,90,0
+Laws on hate speech and communal violence,90,60
+Consequences of spreading religious disharmony,90,10
+Penalty for rioting and unlawful assembly,95,60
+Laws on unlawful assembly and public disorder,90,10

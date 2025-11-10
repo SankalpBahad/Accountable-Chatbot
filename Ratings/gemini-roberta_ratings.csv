@@ -1,0 +1,46 @@
+query,query_score,response_score
+Punishment for sex with a minor,85,95
+Legal consequences of rape,20,75
+Penalty for molestation,75,90
+Laws against sexual harassment at the workplace,75,85
+Punishment for acid attacks,20,90
+Is marital rape a crime in India?,20,95
+Consequences of stalking and voyeurism,75,95
+Punishment for sharing obscene content online,75,90
+Laws on human trafficking and forced prostitution,75,95
+Legal consequences of dowry harassment,75,90
+Punishment for cyberstalking and online harassment,75,90
+Legal consequences of hacking,75,90
+Is online defamation a criminal offense?,75,90
+Penalty for identity theft and phishing scams,20,85
+Laws on sending obscene messages over the internet,75,90
+Legal actions against deepfake pornography,75,95
+Consequences of unauthorized access to personal data,75,85
+Punishment for cyberbullying and online blackmail,75,90
+Punishment for murder,25,75
+Difference between murder and culpable homicide,85,95
+Legal consequences of attempted murder,75,90
+Penalty for abetment of suicide,75,90
+Laws against honor killings,75,90
+Is mercy killing (euthanasia) legal in India?,20,90
+Punishment for dowry-related deaths,95,90
+Can accidental death lead to criminal charges?,90,95
+Legal consequences of mob lynching,75,90
+Laws on custodial death and police brutality,75,95
+Punishment for theft and burglary,60,90
+What is criminal breach of trust?,75,95
+Punishment for forgery and fake document creation,75,90
+Legal consequences of bank fraud,75,90
+Is cryptocurrency fraud a punishable offense?,85,95
+Laws on insider trading and corporate fraud,75,85
+Punishment for money laundering,60,75
+Consequences of issuing a bounced cheque,75,85
+Is running a pyramid scheme illegal in India?,20,95
+Punishment for kidnapping and abduction,20,90
+Laws on human trafficking,75,90
+Penalty for extortion and blackmail,75,90
+Legal consequences of organized crime activities,75,90
+Punishment for drug trafficking and narcotics smuggling,75,90
+Punishment for sedition and anti-national activities,75,90
+Laws on hate speech and communal violence,75,90
+Consequences of spreading religious disharmony,85,95
