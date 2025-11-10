@@ -38,13 +38,13 @@ In current conversational-AI deployments, bots typically provide responses but r
 ---
 
 ## Repository Structure  
-
+```
 ├─ chargesheet-ocr.ipynb # notebook for OCR + chatbot demo on legal documentation
 ├─ Graphs/ # visualisations of behaviour and statistics
 ├─ Ratings/ # logs of user ratings or bot output ratings
 ├─ Results/ # recorded dialogues, logs, metadata
 └─ README.md # this file
-
+```
 ---
 
 ## Getting Started  
@@ -106,4 +106,5 @@ Add dashboard UI (web-based) for administrators to browse logs, filter by reason
 Extend logging metadata to include sentiment, intent classification, confidence scores, hallucination risk indicators.
 
 Deploy the system in a dialog platform (Slack, MS Teams, Web) and collect real user-feedback to refine the accountability metrics.
+
 
